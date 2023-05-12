@@ -33,7 +33,7 @@ class SnackBarView extends StatelessWidget {
                           );
                         },
                         child: const Text(
-                          'Click',
+                          'on Click',
                           style: TextStyle(fontSize: 12),
                         )))),
             
